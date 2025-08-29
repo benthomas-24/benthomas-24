@@ -7,10 +7,9 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: **Flask apps, Java projects, and Python scripting**  
-- 🌱 Learning: **Data Structures, AI in Medical Diagnostics, and Guitar Scales**  
+- 🔭 Currntly working on: **FrontEnd Development, applications of AI, and writing clean, fast code!**  
+- 🌱 Learning: **Data Structures, ML, and C++**  
 - 🎯 2025 Goal: Transfer to a top university for **CS + Biochem** double major  
-- ⚡ Fun fact: I 3D print my own cable clamps & design projects in Fusion 360  
 
 ---
 
@@ -22,10 +21,10 @@
 ---
 
 ## 🎶 What I’m Listening To
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR-SPOTIFY-USERNAME)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/9d5q5kqrglsuonqx28rk0htd3)
 
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ben-thomas-0307552b9/)  
 [![Portfolio](https://img.shields.io/badge/Website-000?logo=vercel&logoColor=white)](https://benjaminbt.com)  
